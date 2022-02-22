@@ -26,7 +26,7 @@ struct Exercise: Codable {
     private enum  CodingKeys: String, CodingKey { case id, name, description, variations, images }
 }
 
-// Instance represents an image of exercise. If image isMain it should be shown on the first page.
+// Instance represents an image of exercise. If image isMain it should be shown on the first page as image of exercise. Other images should be inside collection view (exercise details)
 struct ExerciseImage: Codable {
     var imgPath: String
     var isMain: Bool
