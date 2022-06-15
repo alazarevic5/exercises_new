@@ -1,12 +1,12 @@
-### Exercises
+# Gym exercises 🏋🏻
 Example iOS application with exercises.
 
-### API
-	•	https://wger.de/de/software/api
+### Data used from API:
+`https://wger.de/de/software/api`
 
 ### Prerequisites
 Cocoapods
 
 ### Development setup
-pod install 
+pod install <br>
 open Exercises.xcworkspace
