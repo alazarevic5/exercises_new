@@ -1,7 +1,7 @@
-### exercises_new
-Example with exercises
-
 ### Exercises
+Example iOS application with exercises.
+
+### API
 	•	https://wger.de/de/software/api
 
 ### Prerequisites
