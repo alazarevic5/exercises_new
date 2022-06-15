@@ -8,4 +8,5 @@ Example iOS application with exercises.
 Cocoapods
 
 ### Development setup
-pod install open Exercises.xcworkspace
+pod install 
+open Exercises.xcworkspace
