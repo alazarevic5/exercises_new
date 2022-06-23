@@ -1,5 +1,5 @@
 # Gym exercises 🏋🏻
-Example iOS application with exercises.
+Example iOS application with exercises is made for one task.
 
 ### Data used from API:,
 `https://wger.de/de/software/api`
