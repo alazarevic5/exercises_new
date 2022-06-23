@@ -16,6 +16,7 @@ The focus was on the functionalities and organization of the project structure, 
 Cocoapods
 
 ### Development setup
+Clone the repo -> git clone https://github.com/alazarevic5/exercises_new.git <br>
 pod install <br>
 open Exercises.xcworkspace
 
